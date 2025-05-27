@@ -1,8 +1,16 @@
 <h2 align="center">Hello! I'm Nur </h2>
-<p align="center">
+<p>
 <!--   Software Engineer (C++)<br> -->
 <!--   📧 -->
   <a href="mailto:mehedyhassan865@gmail.com"> mehedyhassan865@gmail.com </a>
+</p>
+
+<h3>Online Judge Problem Solving Profiles</h3>
+
+<p>
+  <a href="https://codeforces.com/profile/NM_Mehedy">Codeforces</a> &nbsp;|&nbsp;
+  <a href="https://www.codechef.com/users/mehedy_kuet">CodeChef</a> &nbsp;|&nbsp;
+  <a href="https://leetcode.com/mehedyhassan865">LeetCode</a>
 </p>
 
 <!--
